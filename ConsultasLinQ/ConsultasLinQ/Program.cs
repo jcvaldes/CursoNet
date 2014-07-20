@@ -8,8 +8,6 @@ namespace ConsultasLinQ
 {
     class Program
     {
-        int[] resultado;
-        
 
         static void Main(string[] args)
         {
@@ -18,10 +16,7 @@ namespace ConsultasLinQ
                                 from n in numero
                                 where n > 4
                                 select n).ToArray();
-            foreach (int item in resultado)
-            {
-                Console.WriteLine("{0,2}", item);
-            }
+      
             Display(resultado);
 
             resultado = (from n in numero

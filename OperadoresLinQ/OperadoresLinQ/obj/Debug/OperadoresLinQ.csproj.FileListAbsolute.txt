@@ -1,0 +1,6 @@
+C:\ProjectsNet\CursoNet\OperadoresLinQ\OperadoresLinQ\bin\Debug\OperadoresLinQ.exe.config
+C:\ProjectsNet\CursoNet\OperadoresLinQ\OperadoresLinQ\bin\Debug\OperadoresLinQ.exe
+C:\ProjectsNet\CursoNet\OperadoresLinQ\OperadoresLinQ\bin\Debug\OperadoresLinQ.pdb
+C:\ProjectsNet\CursoNet\OperadoresLinQ\OperadoresLinQ\obj\Debug\OperadoresLinQ.csprojResolveAssemblyReference.cache
+C:\ProjectsNet\CursoNet\OperadoresLinQ\OperadoresLinQ\obj\Debug\OperadoresLinQ.exe
+C:\ProjectsNet\CursoNet\OperadoresLinQ\OperadoresLinQ\obj\Debug\OperadoresLinQ.pdb
