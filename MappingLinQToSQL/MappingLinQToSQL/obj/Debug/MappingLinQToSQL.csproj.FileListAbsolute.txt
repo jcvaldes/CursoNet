@@ -1,0 +1,9 @@
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\bin\Debug\MappingLinQToSQL.exe.config
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\obj\Debug\MappingLinQToSQL.csprojResolveAssemblyReference.cache
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\obj\Debug\MappingLinQToSQL.frmMain.resources
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\obj\Debug\MappingLinQToSQL.Properties.Resources.resources
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\obj\Debug\MappingLinQToSQL.csproj.GenerateResource.Cache
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\bin\Debug\MappingLinQToSQL.exe
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\bin\Debug\MappingLinQToSQL.pdb
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\obj\Debug\MappingLinQToSQL.exe
+C:\ProjectsNet\CursoNet\MappingLinQToSQL\MappingLinQToSQL\obj\Debug\MappingLinQToSQL.pdb

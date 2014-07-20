@@ -1,0 +1,4 @@
+C:\ProjectsNet\CursoNet\MappingLinQToSql\MappingLinQToSql\bin\Debug\MappingLinQToSql.exe.config
+C:\ProjectsNet\CursoNet\MappingLinQToSql\MappingLinQToSql\obj\Debug\MappingLinQToSql.csprojResolveAssemblyReference.cache
+C:\ProjectsNet\CursoNet\MappingLinQToSql\MappingLinQToSql\obj\Debug\MappingLinQToSql.LinQToSql.resources
+C:\ProjectsNet\CursoNet\MappingLinQToSql\MappingLinQToSql\obj\Debug\MappingLinQToSql.csproj.GenerateResource.Cache
