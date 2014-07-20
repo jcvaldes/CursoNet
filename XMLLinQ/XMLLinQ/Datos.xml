@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Datos>
+  <Autores>
+    <Autor>
+      <Id>1</Id>
+      <NombreAutor>Vctor Hugo</NombreAutor>
+    </Autor>
+    <Autor>
+      <Id>2</Id>
+      <NombreAutor>H.G Wells</NombreAutor>
+    </Autor>
+    <Autor>
+      <Id>3</Id>
+      <NombreAutor>Robert Louis Stevenson</NombreAutor>
+    </Autor>
+  </Autores>
+  <Libros>
+    <libro>
+      <Id>1</Id>
+      <IdAutor>2</IdAutor>
+      <IdEditorial>1</IdEditorial>
+      <NombreLibro>La Ballena Azul</NombreLibro>
+    </libro>
+    <libro>
+      <Id>2</Id>
+      <IdAutor>2</IdAutor>
+      <IdEditorial>1</IdEditorial>
+      <NombreLibro>La guerra de los mundos</NombreLibro>
+    </libro>
+    <libro>
+      <Id>3</Id>
+      <IdAutor>1</IdAutor>
+      <IdEditorial>2</IdEditorial>
+      <NombreLibro>La Ballena Azul</NombreLibro>
+    </libro>
+    <libro>
+      <Id>4</Id>
+      <IdAutor>1</IdAutor>
+      <IdEditorial>2</IdEditorial>
+      <NombreLibro>El extrao caso</NombreLibro>
+    </libro>
+    <libro>
+      <Id>5</Id>
+      <IdAutor>3</IdAutor>
+      <IdEditorial>3</IdEditorial>
+      <NombreLibro>El hombre</NombreLibro>
+    </libro>
+  </Libros>
+  <Editoriales>
+    <editorial>
+      <Id>1</Id>
+      <NombreEditorial>Alianza Editorial</NombreEditorial>
+    </editorial>
+    <editorial>
+      <Id>2</Id>
+      <NombreEditorial>Anaya Multimedia</NombreEditorial>
+    </editorial>
+    <editorial>
+      <Id>3</Id>
+      <NombreEditorial>Germn Orbegozo</NombreEditorial>
+    </editorial>
+  </Editoriales>
+</Datos>

@@ -1,0 +1,6 @@
+C:\ProjectsNet\CursoNet\XMLLinQ\XMLLinQ\bin\Debug\XMLLinQ.exe.config
+C:\ProjectsNet\CursoNet\XMLLinQ\XMLLinQ\bin\Debug\XMLLinQ.exe
+C:\ProjectsNet\CursoNet\XMLLinQ\XMLLinQ\bin\Debug\XMLLinQ.pdb
+C:\ProjectsNet\CursoNet\XMLLinQ\XMLLinQ\obj\Debug\XMLLinQ.csprojResolveAssemblyReference.cache
+C:\ProjectsNet\CursoNet\XMLLinQ\XMLLinQ\obj\Debug\XMLLinQ.exe
+C:\ProjectsNet\CursoNet\XMLLinQ\XMLLinQ\obj\Debug\XMLLinQ.pdb
