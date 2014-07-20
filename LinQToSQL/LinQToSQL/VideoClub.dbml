@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="VideoClub" Class="VideoClubDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=SWF-01;Initial Catalog=VideoClub;Integrated Security=True;Pooling=False" SettingsObjectName="LinQToSQL.Properties.Settings" SettingsPropertyName="VideoClubConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Personas" Member="Personas">
+    <Type Name="Persona">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Apellido" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Direccion" Type="System.String" DbType="VarChar(120) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

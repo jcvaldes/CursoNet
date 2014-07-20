@@ -1,0 +1,6 @@
+C:\ProjectsNet\CursoNet\LinQToSQL\LinQToSQL\bin\Debug\LinQToSQL.exe.config
+C:\ProjectsNet\CursoNet\LinQToSQL\LinQToSQL\bin\Debug\LinQToSQL.exe
+C:\ProjectsNet\CursoNet\LinQToSQL\LinQToSQL\bin\Debug\LinQToSQL.pdb
+C:\ProjectsNet\CursoNet\LinQToSQL\LinQToSQL\obj\Debug\LinQToSQL.csprojResolveAssemblyReference.cache
+C:\ProjectsNet\CursoNet\LinQToSQL\LinQToSQL\obj\Debug\LinQToSQL.exe
+C:\ProjectsNet\CursoNet\LinQToSQL\LinQToSQL\obj\Debug\LinQToSQL.pdb
