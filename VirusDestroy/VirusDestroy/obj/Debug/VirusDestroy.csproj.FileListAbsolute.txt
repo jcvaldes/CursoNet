@@ -1,0 +1,6 @@
+C:\ProjectsNet\CursoNet\VirusDestroy\VirusDestroy\bin\Debug\VirusDestroy.exe.config
+C:\ProjectsNet\CursoNet\VirusDestroy\VirusDestroy\bin\Debug\VirusDestroy.exe
+C:\ProjectsNet\CursoNet\VirusDestroy\VirusDestroy\bin\Debug\VirusDestroy.pdb
+C:\ProjectsNet\CursoNet\VirusDestroy\VirusDestroy\obj\Debug\VirusDestroy.csprojResolveAssemblyReference.cache
+C:\ProjectsNet\CursoNet\VirusDestroy\VirusDestroy\obj\Debug\VirusDestroy.exe
+C:\ProjectsNet\CursoNet\VirusDestroy\VirusDestroy\obj\Debug\VirusDestroy.pdb
