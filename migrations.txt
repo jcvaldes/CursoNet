@@ -1,0 +1,7 @@
+Habilito Migrations
+
+Enable-Migrations -ContextTypeName RealityProductor.Models.RealityDbContext
+
+Add-Migration AddAttributesToModel
+
+update-database

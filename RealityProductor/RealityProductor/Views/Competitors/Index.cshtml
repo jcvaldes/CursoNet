@@ -1,0 +1,26 @@
+﻿@model IEnumerable<RealityProductor.Models.Competitor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Ajax.BeginForm(
+                          new AjaxOptions
+                          {
+                              HttpMethod = "get",
+                              InsertionMode = InsertionMode.Replace,
+                              UpdateTargetId = "CompetitorsList"
+                          }
+
+        ))
+{ 
+    <input type="text" value="" name="criterio" />
+    <input type="submit" value="Buscar" id="buscar" />
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@Html.Partial("CompetitorsPartial")

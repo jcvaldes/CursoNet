@@ -4,3 +4,6 @@ c:\ProjectsNet\ConsultasLinQ\ConsultasLinQ\bin\Debug\ConsultasLinQ.pdb
 c:\ProjectsNet\ConsultasLinQ\ConsultasLinQ\obj\Debug\ConsultasLinQ.csprojResolveAssemblyReference.cache
 c:\ProjectsNet\ConsultasLinQ\ConsultasLinQ\obj\Debug\ConsultasLinQ.exe
 c:\ProjectsNet\ConsultasLinQ\ConsultasLinQ\obj\Debug\ConsultasLinQ.pdb
+C:\ProjectsNet\CursoNet\ConsultasLinQ\ConsultasLinQ\bin\Debug\ConsultasLinQ.exe.config
+C:\ProjectsNet\CursoNet\ConsultasLinQ\ConsultasLinQ\obj\Debug\ConsultasLinQ.exe
+C:\ProjectsNet\CursoNet\ConsultasLinQ\ConsultasLinQ\obj\Debug\ConsultasLinQ.pdb

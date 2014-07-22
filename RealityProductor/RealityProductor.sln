@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealityProductor", "RealityProductor\RealityProductor.csproj", "{D5171D60-7FC1-46B3-AE35-647AFA377858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealityProductor.Tests", "RealityProductor.Tests\RealityProductor.Tests.csproj", "{6B587650-5D4C-4737-AB34-FBBECFD2EF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5171D60-7FC1-46B3-AE35-647AFA377858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5171D60-7FC1-46B3-AE35-647AFA377858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5171D60-7FC1-46B3-AE35-647AFA377858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5171D60-7FC1-46B3-AE35-647AFA377858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B587650-5D4C-4737-AB34-FBBECFD2EF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B587650-5D4C-4737-AB34-FBBECFD2EF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B587650-5D4C-4737-AB34-FBBECFD2EF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B587650-5D4C-4737-AB34-FBBECFD2EF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
